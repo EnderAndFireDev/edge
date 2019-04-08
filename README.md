@@ -1,7 +1,7 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://bot.ender.site/img/ender_edge_icon.png" width="200" height="200" />
+<img src="https://bot.ender.site/img/ender_edge_icon.png" data-canonical-src="https://bot.ender.site/img/ender_edge_icon.png" width="200" height="200" align="center"/>
 
-# Edge
-## Ender Edge is a fresh browser made on Chromium
+<h1 align="center">Edge</h1>
+<h3 align="center">Ender Edge is a fresh browser made on Chromium</h3>
 
 ## Support
 
