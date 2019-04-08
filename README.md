@@ -1,4 +1,6 @@
-<img src="https://bot.ender.site/img/ender_edge_icon.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://bot.ender.site/img/ender_edge_icon.png" width="200" height="200" align="center"/>
+<p align="center">
+  <img src="https://bot.ender.site/img/ender_edge_icon.png" style="display: block;margin-left: auto;margin-right: auto;" data-canonical-src="https://bot.ender.site/img/ender_edge_icon.png" width="200" height="200" align="center"/>
+</p>
 
 <h1 align="center">Edge</h1>
 <h3 align="center">Ender Edge is a fresh browser made on Chromium</h3>
