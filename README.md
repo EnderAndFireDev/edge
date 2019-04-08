@@ -1,3 +1,5 @@
+[![](https://bot.ender.site/img/ender_edge_icon.png)]()
+
 # Edge
 ## Ender Edge is a fresh browser made on Chromium
 
