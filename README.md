@@ -1,4 +1,4 @@
-[![](https://bot.ender.site/img/ender_edge_icon.png | width=100)]()
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://bot.ender.site/img/ender_edge_icon.png" width="200" height="200" />
 
 # Edge
 ## Ender Edge is a fresh browser made on Chromium
