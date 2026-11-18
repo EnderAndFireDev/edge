@@ -19,7 +19,7 @@ For support, join our support discord server.
 
 * [chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - Used to unpack and pack .pak files.
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/#js-downloads-search) - For modifying the Chromium Engine
-* [Resource Hacker](http://www.angusj.com/resourcehacker/) - Modifying metadata and other icons
+* [Resource Hacker](http://www.angusj.com/resourcehacker/) or [Resource Cracker](https://www.pelock.com/products/resource-cracker) - Modifying metadata and other icons
 
 Special thanks to the authors of these tools: myfreeer, Microsoft Inc, and Angus Johnson.
 
